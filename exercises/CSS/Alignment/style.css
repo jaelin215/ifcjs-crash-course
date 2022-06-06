@@ -14,16 +14,16 @@ h1{
     text-align: center;
     color: #FFD400;
     border-radius: 5px;
-    margin: 2px auto;
+    margin: 100px auto;
 }
 h2{
    margin: 10px auto;
-   text-align: center;
+   text-align:center;
 }
 #box-3{
-    border: 1px solid;
-    border-color: black;
-    color: black;
+    border: 10px solid;
+    border-color: rgba(0, 0, 0, 0.437);
+    color: rgba(0, 0, 0, 0.59);
 }
 
 
